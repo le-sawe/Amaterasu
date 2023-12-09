@@ -117,3 +117,6 @@ The steps:
 - getting dust,stars and bright spots binary frames (frame that have an on pixels only where at the object positions)
 - By somme bitwise operations we subtract the frames that contain the stars,bright spots and dust particles.
 - Contouring the rest objects (galxies or gazes) and finding their own center and size.
+
+## Data visualization
+[![Data visualization](https://img.youtube.com/vi/IR0CMOQBCsI/0.jpg)](https://www.youtube.com/watch?v=IR0CMOQBCsI)
