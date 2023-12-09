@@ -118,5 +118,5 @@ The steps:
 - By somme bitwise operations we subtract the frames that contain the stars,bright spots and dust particles.
 - Contouring the rest objects (galxies or gazes) and finding their own center and size.
 
-## Data visualization
+## Data visualization via youtube
 [![Data visualization](https://img.youtube.com/vi/IR0CMOQBCsI/0.jpg)](https://www.youtube.com/watch?v=IR0CMOQBCsI)
